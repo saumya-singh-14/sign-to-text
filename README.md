@@ -1,5 +1,4 @@
-# sign-to-text
-# Sign-Language-to-text-coversion-using-Machine-learning-
+# Sign-Language-to-text-coversion-using-Machine-learning
 Problem Statement:<br />
 The Sign Language-to-text conversion using Machine Learning project aims to develop an accurate and efficient system that can translate sign language gestures into written text. This project will address the communication gap between hearing-impaired people who use sign language and people who do not understand sign language. The system will be designed to recognize and translate the various signs and gestures used in sign language into textual representation.
 To overcome the problem of Lack of communication between a deaf person and others who don’t know sign language,  also the mood of the person cannot be detected through sign language. We proposed our software.<br />
