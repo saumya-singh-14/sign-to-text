@@ -40,10 +40,3 @@ By leveraging machine learning directly in the browser, it translates static han
 5. **Display & Speech:**  
    - If prediction confidence > 98%, display the label as text.
    - Optionally use SpeechSynthesis to read it out.
-
-## **Installation & Running**
-Clone and run locally in browser:
-git clone https://github.com/saumya-singh-14/signspeak.git
-cd sign-language-translator/Sign-Language-Translator-newclassifier
-npm install
-npm start
