@@ -3,7 +3,7 @@ A real-time, browser-based translator that uses TensorFlow.js and KNN classifier
 
 ## **Project Overview**
 This project bridges the communication gap between hearing-impaired individuals who use sign language and those who don't understand it.  
-By leveraging machine learning directly in the browser, it translates static hand gestures captured via webcam into text (and optionally, speech) — without requiring a backend server.
+By leveraging machine learning directly in the browser, it translates static hand gestures captured via webcam into text (and optionally, speech) - without requiring a backend server.
 
 ## **Features**
 - Live training and classification of gestures using KNN
